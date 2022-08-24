@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="Board.h" />
     <ClInclude Include="gameover.h" />
+    <ClInclude Include="instruction.h" />
     <ClInclude Include="playerturn.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
