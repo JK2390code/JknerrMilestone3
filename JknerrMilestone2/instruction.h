@@ -3,10 +3,12 @@
 #include <iostream>
 using namespace std;
 
+//Displays the characters information for player 1 and player 2
+
 // Data Members
 int X;
 int O;
-
+ 
 
 // Member Functions
 void printDetails()

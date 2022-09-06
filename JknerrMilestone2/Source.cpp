@@ -4,6 +4,7 @@
 #include "playerturn.h"
 #include "gameover.h"
 #include "instruction.h"
+#include "fileout.h"
 using namespace std;
 
 
@@ -28,5 +29,6 @@ int main()
     }
     else
         cout << "GAME DRAW!!!";
+    mainSave();
 }
 
